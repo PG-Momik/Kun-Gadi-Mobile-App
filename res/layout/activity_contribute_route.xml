@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img"
+    tools:context=".Activities.ContributeRouteActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--    Header-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="Contribute Route"
+            android:textSize="32sp"
+            android:gravity="center"
+            android:background="@color/ali_black"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+        <!--    Start node-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:text="Start Node"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:background="@color/black"
+                android:padding="1dp">
+
+                <Spinner
+                    android:id="@+id/start_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/white"
+                    android:paddingHorizontal="12dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!--    End node-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:text="End Node"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:background="@color/black"
+                android:padding="1dp">
+
+                <Spinner
+                    android:id="@+id/end_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/white"
+                    android:paddingHorizontal="12dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!--    Complete Path-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:text="Complete Path"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@color/black"
+                android:padding="1dp">
+
+                <EditText
+                    android:id="@+id/complete_path"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:hint="(start, ..., ..., ..., ... end)"
+                    android:paddingHorizontal="12dp"
+                    android:padding="12dp"
+                    android:gravity="top"
+                    android:scrollbars="vertical"
+                    android:inputType="text|textMultiLine"/>
+            </LinearLayout>
+        </LinearLayout>
+        <!--    Button-->
+        <LinearLayout
+            android:id="@+id/buttonContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            android:paddingHorizontal="20dp">
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_circular_rectangle"
+                android:backgroundTint="@color/danger"
+                android:text="Cancel"
+                android:textAllCaps="false"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/submit_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_circular_rectangle"
+                android:backgroundTint="@color/ali_black"
+                android:text="Next"
+                android:textAllCaps="false"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</ScrollView>
