@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.FAQsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/ali_black"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="center"
+            android:text="FAQs"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+        <!--        Content 1-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_marginHorizontal="8dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="What is Search by Route?"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:justificationMode="inter_word"
+                android:text="Search by Route is a search feature that allows users to search for Bus routes based on Route number run by the Department of Travel, Kathmandu."
+                android:textColor="@color/black"
+                android:textSize="14dp" />
+        </LinearLayout>
+        <!--        Content 2-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="What is Search by Node?"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:justificationMode="inter_word"
+                android:text="A node is a point of intersection/connection within a path. Search by Node is a search features that allows users to find all recorded path containing the said Node."
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+        </LinearLayout>
+        <!--        Content 3-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Does this app provide best possible path?"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:justificationMode="inter_word"
+                android:text="No, 'KunGadi' primarily focuses on delivering all possible paths to a desionation rather than the best possible path."
+                android:textSize="14dp"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+        </LinearLayout>
+        <!--        Content 4-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Are paths provided by this app accurate?"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:justificationMode="inter_word"
+                android:text="Our app relies heavily on publicly available and community generated data. Paths generated by our app are as reliable as community contributions."
+                android:textSize="14dp"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+        </LinearLayout>
+        <!--        Content 5-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="What are Contributions?"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:justificationMode="inter_word"
+                android:text="Contributions are non financial effort/help provided by you, the user towards a more accurate and relevant data. Node contribution refers to contributions made towards a certain real world location on a route. Route contributions are contributions made towards the entirety of a real word path that known public vehicles travel in."
+                android:textSize="14dp"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"/>
+        </LinearLayout>
+        <!--        Content 6-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="How to Contribute?"
+                android:textSize="16dp"
+                android:fontFamily="sans-serif-condensed"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:justificationMode="inter_word"
+                android:textSize="14dp"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="@color/black"
+                android:text="Search by Route is a search feature that allows users to search for Bus routes based on Route number run by the Department of Travel, Kathmandu."
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
