@@ -28,7 +28,7 @@
 # ScreenShots
 
 #### Register
-<img src="/Register.jpg" width="150px" height="340px">
+<img src="./Register.jpg" width="200px" height="400px">
 #### Login
  
 #### Home
