@@ -54,9 +54,9 @@
 <img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Menu.jpg" width="200px" height="400px">
 
 #### Contribute Node
-<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node1.jpg" width="200px" height="400px">
+<div><img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node1.jpg" width="200px" height="400px">
 <img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node2.jpg" width="200px" height="400px">
-<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node3.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node3.jpg" width="200px" height="400px"></div>
 
 #### Contribute Route
 <img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_route1.jpg" width="200px" height="400px">
