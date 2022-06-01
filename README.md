@@ -1,6 +1,6 @@
 # 6th Semester Major Projct
 - By <a href="github.com/PG-Momik">Momik Shrestha</a>
-- By Shreeju Pradhan (Me)
+- By <a href="github.com/shreejupradhan">Shreeju Pradhan</a>
 
 # Kun-Gadi Mobile App
 - Kun-Gadi is public transportation assistance mobile appliction. 
