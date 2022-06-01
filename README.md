@@ -28,27 +28,47 @@
 # ScreenShots
 
 #### Register
-<img src="./Register.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Register.jpg" width="200px" height="400px">
+
 #### Login
- 
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Login.jpg" width="200px" height="400px">
+
 #### Home
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Home.jpg" width="200px" height="400px">
 
 #### Search by route number
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search1.jpg" width="200px" height="400px">
+
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search1a.jpg" width="200px" height="400px">
 
 #### Search by node
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search2.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search2a.jpg" width="200px" height="400px">
 
 #### Search by 'To' and 'From'
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search3.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search3a.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Search3b.jpg" width="200px" height="400px">
 
 #### Menu
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Menu.jpg" width="200px" height="400px">
 
 #### Contribute Node
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node1.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node2.jpg" width="200px" height="400px">
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_node3.jpg" width="200px" height="400px">
 
 #### Contribute Route
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Con_route1.jpg" width="200px" height="400px">
+
 
 #### Profile
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Profile.jpg" width="200px" height="400px">
 
 #### My node contributions
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Profile_node.jpg" width="200px" height="400px">
 
 #### My route contributions
+<img src="https://github.com/shreejupradhan/Kun-Gadi-MobileApp/blob/main/Kun-Gadi-App-SC/Profile_route.jpg" width="200px" height="400px">
 
 
