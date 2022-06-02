@@ -1,4 +1,4 @@
-# 6th Semester Major Projct
+# 6th Semester Major Project
 - By <a href="github.com/PG-Momik">Momik Shrestha</a>
 - By <a href="github.com/shreejupradhan">Shreeju Pradhan</a>
 
